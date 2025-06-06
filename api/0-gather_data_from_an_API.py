@@ -1,4 +1,5 @@
-t using some extra modules """
+#!/usr/bin/python3
+""" just using some extra modules """
 import requests
 import sys
 
